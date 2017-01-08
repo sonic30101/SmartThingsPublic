@@ -34,7 +34,7 @@ definition(
     namespace: "wackware",
     author: "todd@wackford.net",
     description: "This app lets the user select from a list of switches or dimmers and record their currents states as a Scene. It is suggested that you name the app during install something like 'Scene - Romantic Dinner' or 'Scene - Movie Time'. Switches can be added removed or set at new levels by editing and updating the app from the smartphone interface.",
-    category: "My Apps",
+    category: "Lights and Switches",
     iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
     iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience%402x.png"
 ) 
