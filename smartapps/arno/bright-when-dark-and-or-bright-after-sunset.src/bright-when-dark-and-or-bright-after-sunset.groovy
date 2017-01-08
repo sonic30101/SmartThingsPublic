@@ -3,7 +3,7 @@ definition(
     namespace: "Arno",
     author: "Arnaud",
     description: "Turn ON light(s) and/or dimmer(s) when there's movement and the room is dark with illuminance threshold and/or between sunset and sunrise. Then turn OFF after X minute(s) when the brightness of the room is above the illuminance threshold or turn OFF after X minute(s) when there is no movement.",
-    category: "Convenience",
+    category: "Lights and Switches",
     iconUrl: "http://neiloseman.com/wp-content/uploads/2013/08/stockvault-bulb128619.jpg",
     iconX2Url: "http://neiloseman.com/wp-content/uploads/2013/08/stockvault-bulb128619.jpg"
 )
